@@ -1,18 +1,19 @@
 ![Tufts Logo](https://github.com/Tufts-University/.github/blob/main/Tufts_univ_blue_small.png)
-# Welcome to the Tufts University Public GitHub Organzation 👋
+# Welcome to the Tufts University Public GitHub Organzation 
 This GitHub organization is available all faculty, staff, students, and Tufts affiliates with valid Tufts credentials.
 
-Please login here: https://github.com/orgs/Tufts-University/sso
+**Login here**
 
-For more information see this page: https://access.tufts.edu/github
+[https://github.com/orgs/Tufts-Technoloy-Services/sso](https://github.com/orgs/Tufts-University/sso)
 
+**Single Sign-On (SSO)**
+
+The Tufts University (GitHub Organization) is connected to the Tufts Shibboleth SAML Idenity Provider (IdP) for single-sign-on to enforce the use of Tufts credentials to access resources in this organization.  
+
+
+**More information**
+
+https://access.tufts.edu/github
+
+Please email it@tufts.edu if you are not able to access this resource. All Tufts faculty, staff, students, and active affiliates with valid Tufts credentials should have access to this GitHub organization.
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
