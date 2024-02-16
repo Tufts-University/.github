@@ -7,7 +7,7 @@ This GitHub organization is available to all faculty, staff, students, and Tufts
 
 **Single Sign-On (SSO)**
 
-The Tufts University (GitHub Organization) is connected to the Tufts Shibboleth SAML Idenity Provider (IdP) for single-sign-on to enforce the use of Tufts credentials to access resources in this organization.  
+The Tufts University (GitHub Organization) is connected to the Tufts Shibboleth SAML Identity Provider (IdP) for single-sign-on to enforce the use of Tufts credentials to access resources in this organization.  
 
 **More information**
 
