@@ -1,5 +1,5 @@
 ![Tufts Logo](https://github.com/Tufts-University/.github/blob/main/Tufts_univ_blue_small.png)
-# Tufts University (GitHub Organzation)
+# Tufts University (GitHub Organization)
 
 **You are NOT logged in.** [Click here to login.](https://github.com/orgs/Tufts-University/sso)
 
